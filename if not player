@@ -1,0 +1,3 @@
+ if not player_hand:
+                print("Компьютер выиграл. Попробуйте еще раз!")
+                break
